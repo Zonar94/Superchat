@@ -1,5 +1,5 @@
 body {
-  background-color: #282c34;
+  background-color: #c1d5fd;
 }
 
 .App {
@@ -9,7 +9,7 @@ body {
 }
 
 .App header {
-  background-color: #181717;
+  background-color: #f05454;
   height: 10vh;
   min-height: 50px;
   color: white;
@@ -91,7 +91,7 @@ button {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  font-size: 1.25rem;
+  font-size: 2rem;
 }
 
 button:disabled {
